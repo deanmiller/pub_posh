@@ -1,1 +1,0 @@
-manafest.md
