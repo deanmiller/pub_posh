@@ -1,3 +1,2 @@
 ConvertTo-ASCII
-Sort-Random
-Get-LastBootTime
+
