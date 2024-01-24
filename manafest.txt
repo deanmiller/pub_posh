@@ -1,3 +1,3 @@
-ConvertTo-ASCII.ps1
-Sort-Random.ps1
-Get-LastBootTime.ps1
+ConvertTo-ASCII
+Sort-Random
+Get-LastBootTime
